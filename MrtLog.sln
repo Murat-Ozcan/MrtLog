@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogApi", "LogApi\LogApi.csproj", "{49543458-BB68-4B1A-90B2-1FE3A12B4C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogLayer", "LogLayer\LogLayer.csproj", "{597C40D5-53E3-4742-BAC9-A355CA8FED12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49543458-BB68-4B1A-90B2-1FE3A12B4C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49543458-BB68-4B1A-90B2-1FE3A12B4C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49543458-BB68-4B1A-90B2-1FE3A12B4C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49543458-BB68-4B1A-90B2-1FE3A12B4C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597C40D5-53E3-4742-BAC9-A355CA8FED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C40D5-53E3-4742-BAC9-A355CA8FED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C40D5-53E3-4742-BAC9-A355CA8FED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C40D5-53E3-4742-BAC9-A355CA8FED12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6390D6B6-F665-4E8D-B90C-0904AE8B31D7}
+	EndGlobalSection
+EndGlobal
